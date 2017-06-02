@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\DefineClassPerson\bin\Debug\DefineClassPerson.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\DefineClassPerson\bin\Debug\DefineClassPerson.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\DefineClassPerson\bin\Debug\DefineClassPerson.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\DefineClassPerson\obj\Debug\DefineClassPerson.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\DefineClassPerson\obj\Debug\DefineClassPerson.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\DefineClassPerson\obj\Debug\DefineClassPerson.pdb

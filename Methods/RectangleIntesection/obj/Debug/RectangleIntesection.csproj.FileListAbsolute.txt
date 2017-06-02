@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\RectangleIntesection\bin\Debug\RectangleIntesection.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\RectangleIntesection\bin\Debug\RectangleIntesection.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\RectangleIntesection\bin\Debug\RectangleIntesection.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\RectangleIntesection\obj\Debug\RectangleIntesection.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\RectangleIntesection\obj\Debug\RectangleIntesection.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\RectangleIntesection\obj\Debug\RectangleIntesection.pdb

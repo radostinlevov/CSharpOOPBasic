@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\ShapesVolume\bin\Debug\ShapesVolume.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\ShapesVolume\bin\Debug\ShapesVolume.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\ShapesVolume\bin\Debug\ShapesVolume.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\ShapesVolume\obj\Debug\ShapesVolume.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\ShapesVolume\obj\Debug\ShapesVolume.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\ShapesVolume\obj\Debug\ShapesVolume.pdb

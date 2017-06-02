@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\Google\bin\Debug\Google.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\Google\bin\Debug\Google.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\Google\bin\Debug\Google.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\Google\obj\Debug\Google.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\Google\obj\Debug\Google.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\Google\obj\Debug\Google.pdb

@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\UniqueStudentNames\bin\Debug\UniqueStudentNames.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\UniqueStudentNames\bin\Debug\UniqueStudentNames.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\UniqueStudentNames\bin\Debug\UniqueStudentNames.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\UniqueStudentNames\obj\Debug\UniqueStudentNames.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\StaticMembers\UniqueStudentNames\obj\Debug\UniqueStudentNames.pdb

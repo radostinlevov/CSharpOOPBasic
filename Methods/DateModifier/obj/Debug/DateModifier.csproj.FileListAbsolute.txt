@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\DateModifier\bin\Debug\DateModifier.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\DateModifier\bin\Debug\DateModifier.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\DateModifier\bin\Debug\DateModifier.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\DateModifier\obj\Debug\DateModifier.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\DateModifier\obj\Debug\DateModifier.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\DateModifier\obj\Debug\DateModifier.pdb

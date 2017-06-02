@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\MethodSaysHello\bin\Debug\MethodSaysHello.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\MethodSaysHello\bin\Debug\MethodSaysHello.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\MethodSaysHello\bin\Debug\MethodSaysHello.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\MethodSaysHello\obj\Debug\MethodSaysHello.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\MethodSaysHello\obj\Debug\MethodSaysHello.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\Methods\MethodSaysHello\obj\Debug\MethodSaysHello.pdb

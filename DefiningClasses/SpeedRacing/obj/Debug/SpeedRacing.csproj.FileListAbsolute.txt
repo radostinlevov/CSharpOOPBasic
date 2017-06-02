@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\SpeedRacing\bin\Debug\SpeedRacing.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\SpeedRacing\bin\Debug\SpeedRacing.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\SpeedRacing\bin\Debug\SpeedRacing.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\SpeedRacing\obj\Debug\SpeedRacing.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\SpeedRacing\obj\Debug\SpeedRacing.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Basics\Exercises\DefiningClasses\SpeedRacing\obj\Debug\SpeedRacing.pdb
